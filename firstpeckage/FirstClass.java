@@ -17,6 +17,7 @@ public class FirstClass {
 		System.out.println("Second commit from the remote master branch");
 >>>>>>> refs/remotes/origin/master
 		
+		
 	}
 
 }
